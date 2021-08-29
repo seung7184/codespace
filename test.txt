@@ -1,0 +1,8 @@
+# /.git/ 폴더를 생성
+git-test $ git init
+
+# add를 이용하여, 스테이징 영역에 test.txt를 스테이징한다.
+git-test $ git add test.txt
+
+# 스테이징된 내용을 로컬 저장소에 커밋한다.
+git-test $ git commit -m "첫 번째 커밋"
