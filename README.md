@@ -21,13 +21,20 @@ In this section I will list data analytics projects briefly describing the techn
 ### Automating Report Creation
 **Code:** [`create_report.py`](https://github.com/seung7184/codespace/blob/main/create_report.py)    
 **Description:** Automating the creation and simple alteration of daily report for personnel management.
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
+**Skills:** data cleaning, data analysis.  
 **Technology:** Python,  
 **Results:** Lessening the manual worklead of reporting.
 
+### Absenteeism Data Analysis
+**Code:** [`absenteeism_analysis.ipynb`](https://github.com/seung7184/codespace/blob/main/absenteeism_analysis.ipynb)    
+**Description:** Data preprossessing practice for data analysis.
+**Skills:** data cleaning, data analysis.  
+**Technology:** Python,  
+**Results:** Learning the data preprossessing techniques.
+
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Example Certificate](http://drive.google.com) (Aug 2021) (Kaggle)
+- [Tableau Desktop Certified Associate](https://www.credly.com/badges/e50989c5-9927-4685-84b7-887c5581df06/linked_in_profile) (May 2019) (Tableau)
 
 ## Contacts
 - LinkedIn: [@seung7184](https://www.linkedin.com/in/hong-seungjae-44a0b6131/)
