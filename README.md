@@ -12,6 +12,7 @@ This is a repository that I have created to showcase skills, share projects and 
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
     + [Automating Report Creation](#automating-report-creation)
+    + [Absenteeism Data Analysis](#absenteeism-data-analysis)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
