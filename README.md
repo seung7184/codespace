@@ -27,7 +27,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Lessening the manual worklead of reporting.
 
 ### Absenteeism Data Analysis
-**Code:** [`absenteeism_analysis.ipynb`](https://github.com/seung7184/codespace/blob/main/absenteeism_analysis.ipynb)    
+**Code:** [`Integration`](https://github.com/seung7184/codespace/tree/main/Integration)    
 **Description:** Data preprossessing practice for data analysis.
 **Skills:** data cleaning, data analysis.  
 **Technology:** Python,  
