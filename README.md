@@ -36,6 +36,7 @@ In this section I will list data analytics projects briefly describing the techn
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Tableau Desktop Certified Associate](https://www.credly.com/badges/e50989c5-9927-4685-84b7-887c5581df06/linked_in_profile) (May 2019) (Tableau)
+- [The Business Intelligence Analyst Course 2022](https://udemy-certificate.s3.amazonaws.com/pdf/UC-8024f072-248d-4a94-aee7-75525e31fd5e.pdf) (March 2022)
 
 ## Contacts
 - LinkedIn: [@seung7184](https://www.linkedin.com/in/hong-seungjae-44a0b6131/)
