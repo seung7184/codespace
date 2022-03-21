@@ -34,7 +34,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Learning the data preprossessing techniques.
 
 ## Certificates
-I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (with the date of completion in brackets):
 - [Tableau Desktop Certified Associate](https://www.credly.com/badges/e50989c5-9927-4685-84b7-887c5581df06/linked_in_profile) (May 2019) (Tableau)
 - [The Business Intelligence Analyst Course 2022](https://udemy-certificate.s3.amazonaws.com/pdf/UC-8024f072-248d-4a94-aee7-75525e31fd5e.pdf) (March 2022) (Udemy)
 
