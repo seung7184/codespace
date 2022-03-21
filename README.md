@@ -23,14 +23,14 @@ In this section I will list data analytics projects briefly describing the techn
 **Code:** [`create_report.py`](https://github.com/seung7184/codespace/blob/main/create_report.py)    
 **Description:** Automating the creation and simple alteration of daily report for personnel management.
 **Skills:** data cleaning, data analysis.  
-**Technology:** Python,  
+**Technology:** Python  
 **Results:** Lessening the manual worklead of reporting.
 
 ### Absenteeism Data Analysis
 **Code:** [`Integration`](https://github.com/seung7184/codespace/tree/main/Integration)    
 **Description:** Data preprossessing practice for data analysis.
 **Skills:** data cleaning, data analysis.  
-**Technology:** Python,  
+**Technology:** Python, mySQL
 **Results:** Learning the data preprossessing techniques.
 
 ## Certificates
