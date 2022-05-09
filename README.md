@@ -35,7 +35,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Learning the data preprossessing techniques.
 
 ### Data Science Project - Start-up Funding EDA/Prediction
-**Code:** [`Start-up Funding EDA/Prediction`](https://github.com/seung7184/codespace/tree/main/Start-up%20Funding%20EDA:Prediction)    
+**Code:** [`Start-up-Funding-EDA/Prediction`](https://github.com/seung7184/codespace/tree/main/Start-up%20Funding%20EDA:Prediction)    
 **Description:** Data preprossessing practice for data analysis.
 **Skills:** data cleaning, data analysis, predictive modelling.  
 **Technology:** Python3
