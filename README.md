@@ -13,6 +13,7 @@ This is a repository that I have created to showcase skills, share projects and 
 - [Portfolio Projects](#portfolio-projects)
     + [Automating Report Creation](#automating-report-creation)
     + [Absenteeism Data Analysis](#absenteeism-data-analysis)
+    + [Start-up Funding EDA/Prediction](#Start-up-Funding-EDA/Prediction)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -32,6 +33,13 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** data cleaning, data analysis.  
 **Technology:** Python, mySQL
 **Results:** Learning the data preprossessing techniques.
+
+### Data Science Project - Start-up Funding EDA/Prediction
+**Code:** [`Start-up Funding EDA/Prediction`](https://github.com/seung7184/codespace/tree/main/Start-up%20Funding%20EDA:Prediction)    
+**Description:** Data preprossessing practice for data analysis.
+**Skills:** data cleaning, data analysis, predictive modelling.  
+**Technology:** Python3
+**Results:** Learning the data preprossessing techniques and data science modelling techniques.
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (with the date of completion in brackets):
