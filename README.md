@@ -13,7 +13,7 @@ This is a repository that I have created to showcase skills, share projects and 
 - [Portfolio Projects](#portfolio-projects)
     + [Automating Report Creation](#automating-report-creation)
     + [Absenteeism Data Analysis](#absenteeism-data-analysis)
-    + [Start-up Funding EDA/Prediction](#Start-up-Funding-EDA/Prediction)
+    + [Start-up Funding EDA/Prediction Project](#Start-up-Funding-EDA/Prediction)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -34,7 +34,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, mySQL
 **Results:** Learning the data preprossessing techniques.
 
-### Data Science Project - Start-up Funding EDA/Prediction
+### Start-up Funding EDA/Prediction Project
 **Code:** [`Start-up Funding EDA/Prediction`](https://github.com/seung7184/codespace/tree/main/Start-up%20Funding%20EDA_Prediction)    
 **Description:** Data preprossessing practice for data analysis.
 **Skills:** data cleaning, data analysis, predictive modelling.  
